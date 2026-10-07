@@ -1,0 +1,11 @@
+psycopg2-binary
+python-dotenv
+statsbombpy
+skillcorner
+requests
+pandas
+numpy
+scipy
+rapidfuzz
+beautifulsoup4
+lxml

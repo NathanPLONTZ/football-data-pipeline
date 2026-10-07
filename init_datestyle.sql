@@ -1,0 +1,1 @@
+ALTER DATABASE fc_metz_mini_projet SET datestyle = 'DMY';
